@@ -1,8 +1,4 @@
-# Welcome to your Lovable project
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
+# This is just for till/ dummy protoype of NirogX -version1
 
 Open your project in the [Lovable editor](https://lovable.dev) and keep building.
 
